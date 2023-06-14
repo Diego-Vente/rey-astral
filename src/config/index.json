@@ -1,0 +1,163 @@
+{
+  "company": {
+    "name": "Rey Astral",
+    "logo": "/assets/images/reylogo.jpeg"
+  },
+  "navigation": [
+    {
+      "name": "Destacados",
+      "href": "product"
+    },
+    {
+      "name": "Productos",
+      "href": "features"
+    },
+
+    {
+      "name": "Precios",
+      "href": "pricing"
+    },
+    {
+      "name": "Contáctanos",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "Comenzar",
+    "href": "https://wa.me/message/VKTAIMHRHU5FH1"
+  },
+  "mainHero": {
+    "title": "Rey",
+    "subtitle": "Astral.",
+    "description": "¡Bienvenido a nuestro maravilloso mundo de conocimiento y espiritualidad! En nuestra página web, te sumergirás en un fascinante viaje a través de las profundidades del cosmos, el misterioso arte del tarot y la energía curativa del Reiki, entre muchas otras disciplinas esotéricas. Aquí, descubrirás un espacio sagrado donde la astrología y el universo se entrelazan, revelando los secretos ocultos del pasado, presente y futuro.",
+    "img": "/assets/images/mainImage.jpeg",
+    "primaryAction": {
+      "text": "Comenzar",
+      "href": "https://wa.me/message/VKTAIMHRHU5FH1"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:mobile.pipes@gmail.com?subject=I like react landing page!"
+    }
+  },
+  "product": {
+    "title": "Nuestros Servicios",
+    "items": [
+      {
+        "title": "Carta Astral",
+        "description": "Nuestro equipo de expertos astrólogos, maestros del tarot y sanadores de Reiki te guiarán en cada paso de tu búsqueda personal de iluminación. Explora los enigmáticos signos zodiacales y las poderosas influencias planetarias que influyen en nuestra vida cotidiana.",
+        "img": "/assets/images/cartaAstral.jpeg"
+      },
+      {
+        "title": "Tarot",
+        "description": "Atrévete a adentrarte en los misterios del tarot, donde las cartas se convierten en ventanas hacia tu propio ser interior y te revelan valiosas enseñanzas y consejos para tomar decisiones importantes.",
+        "img": "/assets/images/tarot.jpeg"
+      }
+    ]
+  },
+  "toconnect": {
+    "title": "Conectar",
+    "items": [
+      {
+        "title": "Carta Astral",
+        "description": "Nuestro equipo de expertos astrólogos, maestros del tarot y sanadores de Reiki te guiarán en cada paso de tu búsqueda personal de iluminación. Explora los enigmáticos signos zodiacales y las poderosas influencias planetarias que influyen en nuestra vida cotidiana.",
+        "img": "/assets/images/cartaAstral.jpeg"
+      }
+    ]
+  },
+  "features": {
+    "title": "",
+    "subtitle": "¡Bienvenido!",
+    "description": "¡Bienvenido a nuestro maravilloso mundo de conocimiento y espiritualidad! En nuestra página web, te sumergirás en un fascinante viaje a través de las profundidades del cosmos, el misterioso arte del tarot y la energía curativa del Reiki, entre muchas otras disciplinas esotéricas. Aquí, descubrirás un espacio sagrado donde la astrología y el universo se entrelazan, revelando los secretos ocultos del pasado, presente y futuro.",
+    "items": [
+      {
+        "name": "La numerología",
+        "description": "",
+        "icon": "/assets/images/numerologia.jpeg"
+      },
+      {
+        "name": "La interpretación de sueños",
+        "description": "",
+        "icon": "/assets/images/interdreams.jpeg"
+      },
+      {
+        "name": "La meditación",
+        "description": "",
+        "icon": "/assets/images/meditacion.jpeg"
+      },
+      {
+        "name": "Reiki",
+        "description": "",
+        "icon": "/assets/images/reiki.jpeg"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Precios",
+    "items": [
+      {
+        "name": "Lectura de tarot",
+        "price": "S/. 25",
+        "priceDetails": "",
+        "features": [
+          "45 min",
+          "Tipo de lectura",
+          "General",
+          "Salud, amor y dinero"
+        ]
+      },
+      {
+        "name": "Carta astral",
+        "price": "S/. 250",
+        "priceDetails": "",
+
+        "features": [
+          "77 min",
+          "Luminarias y ascendente",
+          "Planetas personales",
+          "Planetas transpersonales y más"
+        ]
+      },
+      {
+        "name": "Reiki",
+        "price": "S/. 60 ",
+        "priceDetails": "c/u",
+        "features": [
+          "25 min",
+          "Símbolo de poder",
+          "Símbolo de la mente",
+          "Símbolo maestro"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "¡Bienvenido a nuestro maravilloso mundo de conocimiento y espiritualidad! En nuestra página web, te sumergirás en un fascinante viaje a través de las profundidades del cosmos, el misterioso arte del tarot y la energía curativa del Reiki, entre muchas otras disciplinas esotéricas. Aquí, descubrirás un espacio sagrado donde la astrología y el universo se entrelazan, revelando los secretos ocultos del pasado, presente y futuro."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "¡Bienvenido a nuestro maravilloso mundo de conocimiento y espiritualidad! En nuestra página web, te sumergirás en un fascinante viaje a través de las profundidades del cosmos, el misterioso arte del tarot y la energía curativa del Reiki, entre muchas otras disciplinas esotéricas. Aquí, descubrirás un espacio sagrado donde la astrología y el universo se entrelazan, revelando los secretos ocultos del pasado, presente y futuro."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "¡Bienvenido a nuestro maravilloso mundo de conocimiento y espiritualidad! En nuestra página web, te sumergirás en un fascinante viaje a través de las profundidades del cosmos, el misterioso arte del tarot y la energía curativa del Reiki, entre muchas otras disciplinas esotéricas. Aquí, descubrirás un espacio sagrado donde la astrología y el universo se entrelazan, revelando los secretos ocultos del pasado, presente y futuro."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "¡Bienvenido a nuestro maravilloso mundo de conocimiento y espiritualidad! En nuestra página web, te sumergirás en un fascinante viaje a través de las profundidades del cosmos, el misterioso arte del tarot y la energía curativa del Reiki, entre muchas otras disciplinas esotéricas. Aquí, descubrirás un espacio sagrado donde la astrología y el universo se entrelazan, revelando los secretos ocultos del pasado, presente y futuro."
+      }
+    ],
+    "socialMedia": {
+      "fb": "https://www.facebook.com/profile.php?id=100068483822799",
+      "ig": "https://www.instagram.com/elreyastral/",
+      "wsp": "https://wa.me/message/VKTAIMHRHU5FH1"
+    }
+  }
+}
